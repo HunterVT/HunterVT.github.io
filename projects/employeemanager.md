@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "2021 Hawaii Annual Code Challenge"
-date: 2021-11-20
+title: "Employee Manager Project"
+date: 2021
 published: true
 labels:
   - Java
