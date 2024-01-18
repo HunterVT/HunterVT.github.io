@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/powerlifting1.jpg
 title: "2023 USA Powerlifting Lokahi Open"
 date: 2023-11-19
 published: true
