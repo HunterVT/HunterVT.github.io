@@ -10,9 +10,9 @@ labels:
 summary: "I trained for and competed in the 2023 USA Powerlifting Lokahi Open."
 ---
 
-<div class="text-center p-4">
+<!--<div class="text-center p-4">
   <img src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-</div>
+</div> -->
 
 Powerlifting is a strength sport where competitors are put into different divisions based on their age, as well as different weight classes, and demonstrate their strength on three main lifts. The three main lifts in powerlifting are the squat, bench press, and the deadlift. The objective for competitors is to lift as heavy as possible to achieve the highest total across all three lifts in each age division and weight class, where total means the weight that a competitor squatted, bench pressed, and deadlifted added together. For each lift, a competitor is given three attempts, where the lifter is judged on whether or not the lift meets the standard laid out in the rulebook. 
 
