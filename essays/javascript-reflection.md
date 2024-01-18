@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Refresher on JavaScript and Introduction to Athletic Software Engineering"
+title: "A Refresher on JavaScript and a New Way to Practice"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
