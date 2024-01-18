@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/java.jpg
 title: "Employee Manager Project"
 date: 2021
 published: true
@@ -10,9 +10,9 @@ labels:
 summary: "I created an employee manager app that is able to create and store employee information within a linked list."
 ---
 
-<div class="text-center p-4">
+<!--<div class="text-center p-4">
   <img src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-</div>
+</div> -->
 
 ## The Project
 We had a project in my ICS 211 class that involved creating a linked list that would store nodes containing employee information. When the application would run, the user would be able to add employees and add them to the linked list as nodes. The program also needed to print all of the employees in the list recursively. I also added a couple of other functions not specified in the original assignment to add more functionality to the program, as if it were to be used in a Human Resources setting.
