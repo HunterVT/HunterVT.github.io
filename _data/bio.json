@@ -4,10 +4,9 @@
     "label": "Student",
     "picture": "https://github.com/huntervt.png",
     "email": "hvt7@hawaii.edu",
-    "phone": "808-859-9590",
     "website": "https://HunterVT.github.io",
     "summary": "I am studying for a B.S. in Computer Science - Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "HunterVT", "url": "http://github.com/HunterVT" },
       { "network": "linkedin", "username": "Hunter Von Tungeln", "url": "https://www.linkedin.com/in/hunter-von-tungeln-938506240/" }
@@ -21,19 +20,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "C", "C++", "Java", "Python"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science - Data Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,69 +36,45 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Secure Technology Hawaii Inc.",
+      "position": "IT Intern",
+      "website": "https://www.sthi.com/",
+      "startDate": "2022-11",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Part-time intern performing various tasks.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Facilitate disassembly, destruction, and disposal of old hard drives",
+        "Meet with customers to expedite disposal of old/obsolete systems",
+        "Assist in setting up VDI terminals for customers",
+        "Facilitate delivery of VDI terminals to customers"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "STEMworks - Maui Economic Development Board",
+      "position": "Intern",
+      "website": "https://www.stemworkshawaii.org/home",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Create registration forms, flyers, rule sets, and find prizes for different high school competitions",
+        "Meet with potential competition partners/sponsors",
+        "Assist and collaborate with multiple parties in running the 2023 Hawaii STEM Conference"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Lockheed Martin STEM Scholarship",
+      "date": "2023-Present",
+      "awarder": "Lockheed Martin",
+      "summary": "This scholarship is awarded to high school seniors with a 2.5 or above GPA, with a planned major in Computer Science and planned full-time enrollment at an accredited university. Selection is based upon academic performance, community involvement, work experience, and a statement of career and educational objectives."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place & People's Choice Award",
+      "date": "2021",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team placed second overall in the high school division and won the People's Choice Award in the 2021 Hawaii Annual Code Challenge. The projects section of my portfolio web site has more details."
     }
   ],
   "references": [
