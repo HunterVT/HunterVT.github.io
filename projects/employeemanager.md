@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/java.jpg
 title: "Employee Manager Project"
-date: 2021
+date: 2022
 published: true
 labels:
   - Java
