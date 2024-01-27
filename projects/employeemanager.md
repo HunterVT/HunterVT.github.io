@@ -10,7 +10,7 @@ labels:
 summary: "I created an employee manager app that is able to create and store employee information within a linked list."
 ---
 
-<div class="text-center p-4">
+<div class="rounded float-start pe-4">
   <img src="../img/java.jpg" class="img-thumbnail" >
 </div>
 
