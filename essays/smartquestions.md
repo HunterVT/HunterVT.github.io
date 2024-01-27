@@ -28,7 +28,7 @@ On Stack Overflow, I found a question that I thought was smart. The question was
 While there may be smart questions on Stack Overflow, there are also stupid questions. One question on Stack Overflow asked “Will eclipse no run classes?” This question and post provided no detail to whatever problem this user is encountering. This post has no code, and to paraphrase, says, “I tried to run this, I am encountering this issue, please help.” Providing no context or specific details to the question, with a clear lack of intent to understand the issue is what makes this user’s question stupid. This question was closed and received no answers because the question needs debugging details. The original Stack Overflow post is [here](https://stackoverflow.com/questions/77883350/will-eclipse-no-run-classes). 
 
 ## Takeaway
-Overall, when asking a question, one must show that they have put in effort into understanding their issue and concepts revolving around it. One should include relevant details and information around the question so that readers can understand the context of the question and suggest better solutions to it. Asking a smart question is beneficial not only for solving problems, but for adding to one’s own knowledge. 
+Overall, when asking a question, one must show that they have put in effort into understanding their issue and concepts revolving around it. One should include relevant details and information around the question so that readers can understand the context of the question and suggest better solutions to it. Asking a smart question is beneficial not only for solving problems, but for adding to one’s own knowledge. The investment will pay off. 
 
 <hr>
 
