@@ -11,7 +11,9 @@ summary: "I created an employee manager app that is able to create and store emp
 ---
 
 <div class="rounded float-start pe-4">
-  <img src="../img/java.jpg" class="img-thumbnail" >
+  <img 
+    width="100px"
+    src="../img/java.jpg" class="img-thumbnail" >
 </div>
 
 ## The Project
