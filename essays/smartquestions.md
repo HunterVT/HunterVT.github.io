@@ -15,7 +15,7 @@ Asking questions is a great way to gain an understanding of something not previo
 ## Defining a Question’s Return On Investment
 Different questions warrant different responses. A simple, clarification question warrants a simple response.  A deeper, thought-out, and more complex question may warrant a deeper, more thought-provoking response that triggers lightbulbs in one’s mind. Generally, the more effort and thought one puts into asking a question, the more they will get out. A question’s return on investment is proportional to the amount of effort put into asking said question. 
 
-## What Separates Smart and Stupid questions 
+## What Separates Smart and Stupid Questions 
 Many people, especially in an educational setting, often use the phrases “There are no bad questions” or “There are no stupid questions.” Is this really the case? As I stated before, what one puts into asking a question is what they will get out. Smart questions are well-defined, with clear, applicable purpose behind them. Smart questions about a topic show that ample effort was put into understanding information or content, and that one has a genuine interest in bettering their own understanding. Smart questions are concise and provide plenty of detail in context. A stupid question on the other hand, shows no effort being put in to understand information or content. Stupid questions are also vague and lack specificity, which makes the purpose behind them ambiguous. A smart question has a higher return on investment than a stupid question.
 
 ## Importance of Smart Questions in a Software Engineering Context

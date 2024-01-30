@@ -19,3 +19,5 @@ All in all, I am happy that I learned more about JavaScript. Also, I was happy t
 
 ## Athletic Software Engineering: An Introduction
 I find the concept of athletic software engineering very interesting, as it challenges us students to be able to efficiently develop working solutions in a pressured, time constrained environment. The practice WODs (Workouts of the day) challenged me to be more efficient with writing code, in contrast to my usual, laid back, “time is not an issue" approach that I used in previous courses and assignments. Since the practice WODs had to be approached differently, I finished them slower than I thought I would. The practice WODs essentially forced me to think and work faster, which is very applicable to the software engineering world where deadlines are tight and fast approaching. For myself personally, I would not say that this style of learning is necessarily enjoyable, but practical and beneficial. I expect to gain a lot from this style of learning. 
+
+<hr>
