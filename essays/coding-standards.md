@@ -41,4 +41,4 @@ Coding standards are important and I find the usage of them to be very useful an
 
 <hr>
 
-###### Note: ChatGPT assisted in writing this essay with grammar.
+###### Note: ChatGPT assisted with grammar in writing this essay.
