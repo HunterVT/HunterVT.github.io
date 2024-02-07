@@ -12,7 +12,7 @@ labels:
 <div class="rounded float-start pe-4">
   <img 
     width="100px"
-    src="../img/standards1.png" class="img-thumbnail" >
+    src="../img/standards1.jpg" class="img-thumbnail" >
 </div>
 
 ## The Goal of Having Standards
