@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Looking Good
-“Looksmaxxing” is a slang term which, according to Wikipedia,  is a practice involving several forms of body care routines, in an effort to improve one's physical appearance. Throughout my experience with Bootstrap, I felt that using Bootstrap allowed my assignments to “looksmaxx.”
+“Looksmaxxing” is a slang term which, according to [Wikipedia](https://en.wikipedia.org/wiki/Looksmaxxing),  is a practice involving several forms of body care routines, in an effort to improve one's physical appearance. Throughout my experience with Bootstrap, I felt that using Bootstrap allowed my assignments to “looksmaxx.”
 
 <div class="rounded float-start pe-4">
   <img 
