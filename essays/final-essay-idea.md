@@ -10,7 +10,7 @@ labels:
 ---
 
 # Rec Center Warriors
-### Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Ronan Russel Andal, Hunter Von Tungeln
+Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Ronan Russel Andal, Hunter Von Tungeln
 
 ## Overview
 <em>The Problem:</em>Some people may find the gym intimidating or are afraid to go by themselves. This means they are missing out on great benefits for their health and well-being. 
@@ -36,3 +36,5 @@ labels:
 - Users can rate gym partners
 - Users can see the ratings of gym partners
 - An open forum for UHM students to talk about fitness and health
+- Users can randomly select a partner to go to the gym with
+- Users have a daily/weekly streak of going to the gym
