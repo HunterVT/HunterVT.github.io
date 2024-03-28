@@ -13,9 +13,9 @@ labels:
 Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Ronan Russel Andal, Hunter Von Tungeln
 
 ## Overview
-<em>The Problem:</em>Some people may find the gym intimidating or are afraid to go by themselves. This means they are missing out on great benefits for their health and well-being. 
+<em>The Problem:</em> Some people may find the gym intimidating or are afraid to go by themselves. This means they are missing out on great benefits for their health and well-being. 
 
-<em>The Solution:</em>Rec Center Warriors is a way for UHM students to find a WRC gym partner or group of people to go to the WRC with.
+<em>The Solution:</em> Rec Center Warriors is a way for UHM students to find a WRC gym partner or group of people to go to the WRC with.
 
 ## Mockup Page Ideas
 - Landing Page
