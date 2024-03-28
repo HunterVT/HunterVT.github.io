@@ -17,6 +17,8 @@ Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Rona
 
 <em>The Solution:</em> Rec Center Warriors is a way for UHM students to find a WRC gym partner or group of people to go to the WRC with.
 
+Approach: Users can sign up and create a profile, set their goals, and find gym partners based on availability, goals, and more. Users can filter by other users' availability and specific exercises to find a gym partner for the day. 
+
 ## Mockup Page Ideas
 - Landing Page
 - User Home Page / Profile
@@ -28,7 +30,7 @@ Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Rona
 ## Use Case Ideas
 - User signs up, goes to landing page, logs in, gets home page, sets up gym profile
 - User goes to exercises page to see what exercises they want to do that day
-- User posts on calendar page that they are looking for a gym partner, with the specific exercises they want to do
+- User posts on calendar page that they are looking for a gym partner, with the specific exercises they want to do, and the time they want to go
 - Admin logs in, goes to admin page, can see all users, can delete users
 - User logs in, goes to calendar page, sees available gym partners, selects gym partner, goes to gym
 
@@ -38,3 +40,4 @@ Authors: Tyler Mak, Isai Foglesong, Javin Solmirin, Alvin Wu, Shane Baclig, Rona
 - An open forum for UHM students to talk about fitness and health
 - Users can randomly select a partner to go to the gym with
 - Users have a daily/weekly streak of going to the gym
+- Users can redeem their streak for a prize
