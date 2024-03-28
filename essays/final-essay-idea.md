@@ -22,6 +22,7 @@ Approach: Users can sign up and create a profile, set their goals, and find gym 
 ## Mockup Page Ideas
 - Landing Page
 - User Home Page / Profile
+- Search Page
 - Admin Page
 - Calendar Page
 - Exercises 
