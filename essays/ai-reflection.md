@@ -10,6 +10,12 @@ labels:
   - Software Engineering
 ---
 
+<div class="rounded float-start pe-4">
+  <img 
+    width="200px"
+    src="../img/artificial-intellegence.jpg" class="img-thumbnail" alt="ai" >
+</div>
+
 ### I. Introduction
 Artificial Intelligence, or AI is a very powerful tool, that is only going to get more powerful as time goes on. AI can be used for many different things, whether it be explaining a concept, or summarizing multiple pieces of information. I have fooled around with ChatGPT before taking ICS 314. During ICS 314, I made use of ChatGPT and GitHub Co-Pilot. 
 
