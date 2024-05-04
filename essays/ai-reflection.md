@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Productivity and Policy"
+title: "I'll Just ChatGPT It"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
