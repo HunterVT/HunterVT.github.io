@@ -13,8 +13,8 @@ summary: "A way to find new gym partners for the Warrior Recreation Center at UH
 ---
 
 <div class="text-center p-4">
-    <img width="400px" src="../img/rcwarriors2.png" class="img-thumbnail" alt="rcwarriors2">
-    <img width="400px" src="../img/rcwarriors3.png" class="img-thumbnail" alt="rcwarriors3">
+    <img width="800px" src="../img/rcwarriors2.png" class="img-thumbnail" alt="rcwarriors2">
+    <img width="800px" src="../img/rcwarriors3.png" class="img-thumbnail" alt="rcwarriors3">
 </div>
 
 ## The Project
