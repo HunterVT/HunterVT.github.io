@@ -11,7 +11,7 @@ labels:
 
 <div class="rounded float-start pe-4">
   <img 
-    width="100px"
+    width="250px"
     src="../img/swe.jpg" class="img-thumbnail" >
 </div>
 ## Introduction
@@ -26,7 +26,7 @@ Building on version control, for our final project, we used Issue Driven Project
 
 <div class="rounded float-start pe-4">
   <img 
-    width="100px"
+    width="250px"
     src="../img/whiteboard.jpg" class="img-thumbnail" >
 </div>
 ## Coding Standards and Design Patterns
