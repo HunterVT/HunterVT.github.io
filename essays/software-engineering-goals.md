@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering: Personal and Professional Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Software Engineering
 ---

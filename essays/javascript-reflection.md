@@ -4,7 +4,7 @@ type: essay
 title: "A Familiar Language and a New Way to Practice"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Software Engineering
   - JavaScript
