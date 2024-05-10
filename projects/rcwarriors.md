@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hacc.png
+image: img/rcwarriorslogo.png
 title: "Rec Center Warriors"
 date: 2024-05-09
 published: true
