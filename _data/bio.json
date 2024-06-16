@@ -5,7 +5,7 @@
     "picture": "https://github.com/huntervt.png",
     "email": "hvt7@hawaii.edu",
     "website": "https://HunterVT.github.io",
-    "summary": "I am studying for a B.S. in Computer Science - Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science - Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "HunterVT", "url": "http://github.com/HunterVT" },
@@ -15,6 +15,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Machine Learning" },
+    { "name": "Data Visualization" },
     { "name": "Information Technology" }
   ],
   "skills": [
@@ -25,12 +26,35 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science - Data Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
+        "ICS 235 - Machine Learning Methods",
+        "ICS 355 - Security & Trust I",
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "MATH 307 - Linear Algebra & Differential Equations",
+        "MATH 372 - Elementary Probability & Statistics"
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science - Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2019-06",
+      "endDate": "2023-05",
+      "courses": [
+        "ICS 111 - Introduction to Computer Science I",
+        "ICS 211 - Introduction to Computer Science II",
+        "ICS 212 - Program Structure",
+        "ICS 141 - Discrete Math for Computer Science I",
+        "ICS 241 - Discrete Math for Computer Science II",
+        "ICS 215 - Introduction to Scripting"
       ]
     }
   ],
@@ -48,6 +72,19 @@
         "Diagnose problems with old server hardware, attempt to fix and repurpose the hardware",
         "Assist in setting up VDI terminals for customers",
         "Facilitate delivery of VDI terminals to customers"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa Information and Computer Sciences",
+      "position": "Assistant Teaching Assistant",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "Assisted students for ICS 211 - Intro to Computer Science II Lab",
+      "highlights": [
+        "Assisted students with coursework during instructional lab time",
+        "Created teaching material for one week of instruction",
+        "Responded to student emails regarding course content and assignments",
+        "Held office hours during an open lab session to further assist students with coursework"
       ]
     },
     {
