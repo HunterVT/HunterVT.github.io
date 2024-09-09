@@ -39,6 +39,9 @@
         "ICS 390 - Computing Ethics for Lab Assistants",
         "ICS 321 - Database Systems I",
         "ICS 332 - Operating Systems",
+        "ICS 422 - Network Science Methodology",
+        "ICS 432 - Concurrent and High-Performance Programming",
+        "ICS 483 - Computer Vision",
         "MATH 307 - Linear Algebra & Differential Equations",
         "MATH 372 - Elementary Probability & Statistics"
       ]
@@ -75,6 +78,13 @@
         "Facilitate delivery of VDI terminals to customers",
         "Currently researching AI tools regarding security risks and how to leverage them for business needs"
       ]
+    },
+    {
+      "company": "University of Hawaii at Manoa - Mathematics Department",
+      "position": "Grader",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "Grading homework assignments for MATH 372 - Elementary Probability and Statistics"
     },
     {
       "company": "University of Hawaii at Manoa Information and Computer Sciences",
