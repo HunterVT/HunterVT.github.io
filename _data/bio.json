@@ -27,7 +27,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science - Data Science (expected Spring, 2026)",
+      "area": "Computer Science - Data Science, Minor in Mathematics (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
@@ -39,9 +39,11 @@
         "ICS 390 - Computing Ethics for Lab Assistants",
         "ICS 321 - Database Systems I",
         "ICS 332 - Operating Systems",
-        "ICS 422 - Network Science Methodology (In-Progress)",
-        "ICS 432 - Concurrent and High-Performance Programming (In-Progress)",
-        "ICS 483 - Computer Vision (In-Progress)",
+        "ICS 422 - Network Science Methodology",
+        "ICS 432 - Concurrent and High-Performance Programming",
+        "ICS 483 - Computer Vision",
+        "ICS 434 - Data Science Fundamentals (Upcoming)",
+        "ICS 435 - Machine Learning Fundamentals (Upcoming)",
         "MATH 307 - Linear Algebra & Differential Equations",
         "MATH 372 - Elementary Probability & Statistics"
       ]
