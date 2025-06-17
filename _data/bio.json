@@ -16,12 +16,12 @@
     { "name": "Software Engineering" },
     { "name": "Machine Learning" },
     { "name": "Data Visualization" },
-    { "name": "Information Technology" }
+    { "name": "High-Performance Computing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python"]
+      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "HTML/CSS", "SQL", "R"]
     }
   ],
   "education": [
@@ -42,10 +42,14 @@
         "ICS 422 - Network Science Methodology",
         "ICS 432 - Concurrent and High-Performance Programming",
         "ICS 483 - Computer Vision",
-        "ICS 434 - Data Science Fundamentals (Upcoming)",
-        "ICS 435 - Machine Learning Fundamentals (Upcoming)",
+        "ICS 434 - Data Science Fundamentals",
+        "ICS 435 - Machine Learning Fundamentals",
+        "ICS 484 - Data Visualization (Upcoming Fall 2025)",
+        "ICS 438 - Big Data Analytics (Upcoming Fall 2025)",
         "MATH 307 - Linear Algebra & Differential Equations",
-        "MATH 372 - Elementary Probability & Statistics"
+        "MATH 372 - Elementary Probability & Statistics",
+        "MATH 321 - Introduction to Advanced Mathematics",
+        "MATH 471 - Probability (Upcoming Fall 2025)"
       ]
     },
     {
@@ -65,6 +69,19 @@
     }
   ],
   "work": [
+    {
+      "company": "Temple University - Institute for Computational Molecular Science (ICMS)",
+      "position": "REU Student",
+      "website": "https://icmshpc.com/",
+      "startDate": "2025-5",
+      "endDate": "Present",
+      "summary": "High Performance Computing (HPC) Tools, Techniques, and Research across the Physical Sciences",
+      "highlights": [
+        "Computational biology research utilizing high-performance computing techniques and resources",
+        "Building and simulating a small computing cluster using multiple Raspberry Pis",
+        "Simulating protein binder design using deep learning diffusion models"
+      ]
+    },
     {
       "company": "Secure Technology Hawaii Inc.",
       "position": "IT Intern",
