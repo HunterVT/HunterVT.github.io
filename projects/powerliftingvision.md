@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/good-pose-1.jpg
+image: img/good-pose-1.jpeg
 title: "Powerlifting Vision"
 date: 2024-12-18
 published: true
