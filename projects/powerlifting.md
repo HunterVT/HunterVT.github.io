@@ -4,7 +4,7 @@ type: project
 image: img/powerlifting1.jpg
 title: "2023 USA Powerlifting Lokahi Open"
 date: 2023-11-19
-published: true
+published: false
 labels:
   - Competitor
 summary: "I trained for and competed in the 2023 USA Powerlifting Lokahi Open."

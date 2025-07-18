@@ -4,7 +4,7 @@ type: project
 image: img/java.jpg
 title: "Employee Manager Project"
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "I created an employee manager app that is able to create and store employee information within a linked list."
