@@ -22,4 +22,4 @@ The project I was assigned during my REU at Temple University dealt with protein
 I mainly ran the machine learning models on Temple's HPC cluster and recorded the data provided from each run. I reported the successful runs, and organized the data into the 10 "best" potential binders for use in molecular dynamics simulations. I also ran some of the molecular dynamics simulations.
 
 ## Takeaways
-This project taught me a lot about different concepts in biology, improved my skill with Python and Bash, and exposed me to a different side of machine learning in the context of biology. 
+This project taught me a lot about different concepts in biology, improved my skill with Python and Bash, and exposed me to a different side of machine learning in the context of biology. The project also exposed me to use of an HPC cluster, which I gained more proficiency with using throughout my time as an REU student. 
