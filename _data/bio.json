@@ -70,6 +70,20 @@
   ],
   "work": [
     {
+      "company": "LaunchDetect",
+      "position": "Machine Learning Intern",
+      "website": "https://www.launchdetect.com/",
+      "startDate": "2025-9",
+      "endDate": "Present",
+      "summary": "Using machine learning and GIS techniques for space domain awareness",
+      "highlights": [
+        "Develop and train machine learning models for use in space launch rocket detections",
+        "Validate and improve existing models in different use-cases and parameter tuning",
+        "Collect and preprocess geospatial datasets (imagery, vector data, annotations)",
+        "Assist in developing ground-truth labels using reference data sources"
+      ]
+    },
+    {
       "company": "Secure Technology Hawaii Inc.",
       "position": "System Engineering Intern",
       "website": "https://www.sthi.com/",
