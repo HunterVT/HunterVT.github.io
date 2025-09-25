@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/reu-protein.png
 title: "AI-Driven Discovery of Novel Molecular Tools for Intraoperative Nerve Visualization"
-date: 2025-07-31
+date: 2025-7-31
 published: true
 labels:
   - Bash
